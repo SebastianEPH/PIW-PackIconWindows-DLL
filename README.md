@@ -3,14 +3,14 @@
 Pack de Iconos del sistema para Windows 10 
 ## Procedimientos de Instalación del Pack
 1. Descargue los [archivos en Github](https://github.com/SebastianEPH/PIW-PackIconWindows-DLL).
-![7tsp GUI 01](https://i.imgur.com/QaXdEcv.png)
+ ![7tsp GUI 01](https://i.imgur.com/QaXdEcv.png)
 2. Ejecutamos como administrador el Software portable  *[7tsp_GUI_v0.4_B(2015).exe](https://7themes.su/prog/7tsp_GUI_v0.4_B-2015-.rar)*
 3. Esperamos que carguen los complementos.
-![Preparing 7tsp](https://i.imgur.com/VNpPxfN.png)
+ ![Preparing 7tsp](https://i.imgur.com/VNpPxfN.png)
 4. Una vez tengamos el software [7tsp GUI](https://7themes.su/prog/7tsp_GUI_v0.4_B-2015-.rar) abierto, oprimimos el botón **[Add a Custom Pack]**  y buscamos el archivo **7tsp PackIconsWindows-DLL.7z** y lo abrimos
-![Agregar](https://i.imgur.com/2109gud.png) 
+ ![Agregar](https://i.imgur.com/2109gud.png) 
 5. Una vez tengamos nuestro archivo abierto, solo esperamos que cargue y oprimimos el botón **[Start Patching]**
-![Principal](https://i.imgur.com/N41mKRb.png)
+ ![Principal](https://i.imgur.com/N41mKRb.png)
 6.
 
 
