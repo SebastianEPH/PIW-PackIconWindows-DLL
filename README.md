@@ -14,6 +14,7 @@ Pack de Iconos del sistema para Windows 10
  ![Principal](https://i.imgur.com/N41mKRb.png)
 6. ![](https://i.imgur.com/oZHc41G.png)
 7. ![](https://i.imgur.com/H7HmGIA.png)
+```c++
       Selected:
       7tsp PackIconsWindows-DLL.7z
       Checking out current situation
@@ -78,15 +79,14 @@ Pack de Iconos del sistema para Windows 10
       Patching: zipfldr.dll
       Patching: zipfldr.dll X64
       Patched: 51 Files
-
+```
 8. Reinicie la computadora para ver los cambios o dirijase al punto *9*.
 ![](https://i.imgur.com/XRBzhIh.png)
-9. ![](https://i.imgur.com/MMaFEYG.png)
+9. 
+![](https://i.imgur.com/MMaFEYG.png)
 10. Al culminar se verá así
 ![](https://i.imgur.com/UsfBtfO.png)
 ![](https://i.imgur.com/Y21Ow1e.png)
-![]()
-![]()
 
 
 
@@ -98,7 +98,7 @@ Pack de Iconos del sistema para Windows 10
 
 
 ## Softwares Utilizados
-**[Resource Hacker :](http://www.angusj.com/resourcehacker/)**: Edita y modifica los archivos \*.DLL puedes descargarlo gratis **[aquí](http://www.angusj.com/resourcehacker/reshacker_setup.exe)**.
+**[Resource Hacker :](http://www.angusj.com/resourcehacker/)** Edita y modifica los archivos \*.DLL puedes descargarlo gratis **[aquí](http://www.angusj.com/resourcehacker/reshacker_setup.exe)**.
 
 **[Se7en Theme Source Patcher *7tsp GUI* : ]()** Los íconos en paquetes de 7tsp son un conjunto de archivos de sistema modificados diseñados para reemplazar íntegramente íconos de escritorio estándar, paneles de control, íconos de disco local, carpetas del sistema y más. La instalación de dichos paquetes se realiza automáticamente utilizando el programa Se7en Theme Source Patcher utilizando el popular formato de compresión 7z.
 
