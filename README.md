@@ -14,7 +14,7 @@ Pack de Iconos del sistema para Windows 10
  ![Principal](https://i.imgur.com/N41mKRb.png)
 6. ![](https://i.imgur.com/oZHc41G.png)
 7. ![](https://i.imgur.com/H7HmGIA.png)
-```c++
+```
       Selected:
       7tsp PackIconsWindows-DLL.7z
       Checking out current situation
@@ -111,8 +111,9 @@ Si usted desea crear su propio pack personalizado de iconos, entonces verifique 
 
 ### DLL Modificados 
 Éstos son solo algunos DLL's que tiene iconos guardados, y las cuales fueron cambiadas:
-
+```
 aclui.dll, aclui.dll X64, ActionCenter.dll, ActionCenter.dll X64, autoplay.dll, autoplay.dll X64, calc.exe, calc.exe X64, cmd.exe, cmd.exe X64, colorcpl.exe, colorcpl.exe X64, CompMgmtLauncher.exe X64, desk.cpl, desk.cpl X64, Display.dll, Display.dll X64, fontext.dll, fontext.dll X64, fvecpl.dll X64, imageres.dll (may take a while), imageres.dll X64 (may take a while), imagesp1.dll, imagesp1.dll X64, mmsys.cpl, mmsys.cpl X64, mydocs.dll, mydocs.dll X64, notepad.exe, windir-notepad.exe, notepad.exe X64, occache.dll, occache.dll X64, windir-regedit.exe, SndVol.exe, SndVol.exe X64, taskbarcpl.dll X64, themeui.dll, themeui.dll X64, timedate.cpl, timedate.cpl X64, UserAccountControlSettings.exe, UserAccountControlSettings.exe X64, usercpl.dll, usercpl.dll X64, wmplayer.exe, wmplayer.exe X64, wmploc.DLL, wmploc.DLL X64, zipfldr.dll, zipfldr.dll X64
+```
 
 ## Descargar otros paquetes de iconos para 7tsp GUI
 Para descargar packs de Iconos de Windows 7, 8.1 y 10 haga click [aqui](https://7themes.su/stuff/ikons_for_windows/7tsp_iconpacks/4)
