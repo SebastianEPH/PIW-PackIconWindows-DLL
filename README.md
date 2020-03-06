@@ -1,4 +1,5 @@
 # 7tsp GUI - Pack de Iconos del sistema para Windows 10
+![](https://i.imgur.com/l9h0zrb.png)
 # Información
 Pack de Iconos del sistema para Windows 10 
 ## Procedimientos de Instalación del Pack
@@ -11,9 +12,8 @@ Pack de Iconos del sistema para Windows 10
  ![Agregar](https://i.imgur.com/2109gud.png) 
 5. Una vez tengamos nuestro archivo abierto, solo esperamos que cargue y oprimimos el botón **[Start Patching]**
  ![Principal](https://i.imgur.com/N41mKRb.png)
-6.
-
-
+6. ![](https://i.imgur.com/oZHc41G.png)
+7. ![](https://i.imgur.com/H7HmGIA.png)
       Selected:
       7tsp PackIconsWindows-DLL.7z
       Checking out current situation
@@ -78,6 +78,19 @@ Pack de Iconos del sistema para Windows 10
       Patching: zipfldr.dll
       Patching: zipfldr.dll X64
       Patched: 51 Files
+
+8. Reinicie la computadora para ver los cambios o dirijase al punto *9*.
+![](https://i.imgur.com/XRBzhIh.png)
+9. ![](https://i.imgur.com/MMaFEYG.png)
+10. Al culminar se verá así
+![](https://i.imgur.com/UsfBtfO.png)
+![](https://i.imgur.com/Y21Ow1e.png)
+![]()
+![]()
+
+
+
+
 
 
 
